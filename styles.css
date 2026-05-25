@@ -1,0 +1,20 @@
+body {
+    background-color: C5BAAF;
+    margin: 100px;
+}
+
+#name {
+    color: 424B54;
+    font-size: 64;
+}
+
+a {
+    font-weight: bold;
+    font-style: normal;
+    color: 424B54;
+    font-size: 24;
+}
+
+p {
+    color: 424B54;
+}
